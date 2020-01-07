@@ -22,7 +22,7 @@ Citizen.CreateThread(function()
 
 					time = time - 1
 				else
-					TriggerServerEvent("kickForBeingAnAFKDouchebag")
+					TriggerServerEvent("yallahafk")
 				end
 			else
 				time = afkKalmaSuresi
